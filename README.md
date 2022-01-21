@@ -1,1 +1,2 @@
-# lab5
+# gui_swing_anim
+Repozytorium do animacji
